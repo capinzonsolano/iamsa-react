@@ -62,9 +62,3 @@ typings/
 
 #src
 src
-
-#webpack
-package.json
-package-lock.json
-webpack.config.js
-webpack.dev.config.js
